@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🫡🫡🫡, I'm Tanakorn Tanatachalert (LuckGets)</h1>
 <h3 align="center">An inspired-fullstack developer from Thailand.</h3>
 
-- 🔭 I’m currently working on [voucher faster project](https://github.com/LuckGets/voucher-client)
+- 🔭 I’m currently working on quiz_codecamp project([web](https://github.com/KonJengz/quiz_codecamp_web) , [API](https://github.com/KonJengz/quiz_codecamp_api))
 
 - 🌱 I’m currently learning **Golang, Angular, Kubernetes.**
 
